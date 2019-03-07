@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Feb 01 10:41:39 CET 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0161-50be-3930-000006f84220 
+on database directory C:\Users\bartlomiej.duda\Desktop\MEGA SYNC\PUS PROJEKT\BD_projekt1\db with class loader sun.misc.Launcher$AppClassLoader@55f96302 
+Loaded from file:/C:/Users/bartlomiej.duda/Desktop/MEGA%20SYNC/PUS%20PROJEKT/BD_projekt1/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_111-b14
+user.dir=C:\Users\bartlomiej.duda\Desktop\MEGA SYNC\PUS PROJEKT\BD_projekt1
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

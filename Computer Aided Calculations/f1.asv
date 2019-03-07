@@ -1,0 +1,17 @@
+function y = f1(num)
+
+var n1 = 1;
+var n2 = 2;
+result;
+
+if num == 1 
+    result  = result + 1;
+    
+else if num == 2
+       result  = result + 1;
+
+result = f1(n-1) + f1(n-2)
+
+return 
+
+end

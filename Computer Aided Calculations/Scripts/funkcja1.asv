@@ -1,0 +1,13 @@
+function x = zajecia3_29112017_funkcja1( n )
+
+x=1;
+for k=2:sqrt(n)
+    if mod(n, k)==0
+        x=0;
+    end
+end
+
+end
+
+
+prime(n)

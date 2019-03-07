@@ -1,0 +1,1 @@
+Suma znakow: 46, slow: 6, wierszy: 2
