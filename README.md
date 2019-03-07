@@ -1,1 +1,1 @@
-# Studia
+Studia II stopnia (Informatyka) - programy z zajęć
