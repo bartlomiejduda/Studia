@@ -64,8 +64,7 @@ pracownik(marek, lis, firma(mno), 4).
 % d) 
 % pracownik(X, Y, firma(klm), _).
 % e) 
-% pracownik(X, Y, _, _), mezczyzna(X). -- to jest dobrze
-% pracownik(X, Y, _, _); mezczyzna(X).
+% pracownik(X, Y, _, _), mezczyzna(X). 
 
 
 
@@ -83,7 +82,6 @@ pracKobieta(X,Y) :- pracownik(X, Y, _, _), kobieta(X).
 % 3e 
 plus(X, Y, Z) :- Z is X+Y.
 
-% wyliczam bonus B
 % premia(X, Y, B) :- pracownik(X, Y, _, STAZ), B is STAZ*150.
 
 premia(X, Y, B) :- pracownik(X, Y, _, STAZ), STAZ>5 -> B is STAZ*150. 
