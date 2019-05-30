@@ -78,6 +78,8 @@ pracInne(X, Y) :- pracownik(X, Y, FIRMA, _), FIRMA \= firma(abc).
 % 3c
 pracKobieta(X,Y) :- pracownik(X, Y, _, _), kobieta(X).
 
+% 3d
+dlugoletniPrac(X,Y,Z) :- pracownik(X, Y, firma(Z), STAZ), STAZ >= 10.
 
 % 3e 
 plus(X, Y, Z) :- Z is X+Y.
